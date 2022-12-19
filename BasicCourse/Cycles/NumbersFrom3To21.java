@@ -1,6 +1,6 @@
 package BasicCourse.Cycles;
 
-public class Cycles {
+public class NumbersFrom3To21 {
     public static void main(String[] args) {
         int number = 0;
         int i = 3;
