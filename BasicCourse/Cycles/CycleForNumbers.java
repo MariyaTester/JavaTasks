@@ -17,7 +17,7 @@ public class CycleForNumbers {
         System.out.println("\nВведите n и нажмите Enter: ");
         int n = scanner.nextInt();
         for (int i = 1; i <= n; i++) {
-            System.out.printf("%-3.0f", Math.pow(i,2));
+            System.out.printf("%-5.0f", Math.pow(i,2));
         }
     }
 }
