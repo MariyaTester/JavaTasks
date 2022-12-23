@@ -1,4 +1,4 @@
-package Functions;
+package BasicCourse.Functions;
 
 import java.util.Locale;
 import java.util.Scanner;

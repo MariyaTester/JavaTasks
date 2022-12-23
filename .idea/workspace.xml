@@ -58,11 +58,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.ProductsAndPricesFunction">
     <configuration name="FunctionAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.FunctionAvg" />
+      <option name="MAIN_CLASS_NAME" value="BasicCourse.Functions.FunctionAvg" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="BasicCourse.Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,11 +71,11 @@
       </method>
     </configuration>
     <configuration name="FunctionDegreesConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.FunctionDegreesConversion" />
+      <option name="MAIN_CLASS_NAME" value="BasicCourse.Functions.FunctionDegreesConversion" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="BasicCourse.Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +84,11 @@
       </method>
     </configuration>
     <configuration name="FunctionsPrintAndRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.FunctionsPrintAndRead" />
+      <option name="MAIN_CLASS_NAME" value="BasicCourse.Functions.FunctionsPrintAndRead" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="BasicCourse.Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="OverloadFunctionsSizes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.OverloadFunctionsSizes" />
+      <option name="MAIN_CLASS_NAME" value="BasicCourse.Functions.OverloadFunctionsSizes" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="BasicCourse.Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
       </method>
     </configuration>
     <configuration name="ProductsAndPricesFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.ProductsAndPricesFunction" />
+      <option name="MAIN_CLASS_NAME" value="BasicCourse.Functions.ProductsAndPricesFunction" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="BasicCourse.Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

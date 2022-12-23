@@ -1,4 +1,4 @@
-package Functions;
+package BasicCourse.Functions;
 
 public class ProductsAndPricesFunction {
     public static void getPriceWithDiscount(int numberOfProductsFirstType, int numberOfProductsSecondType) {
