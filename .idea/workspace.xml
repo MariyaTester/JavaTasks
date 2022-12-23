@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f40d0c-2861-4f97-ab29-ccec4dda07e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BasicCourse/Cycles/AverageOfNumbersDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicCourse/Cycles/AverageOfNumbersWhile.java" afterDir="false" />
+    <list default="true" id="95f40d0c-2861-4f97-ab29-ccec4dda07e2" name="Changes" comment="Cycles tasks part 2">
+      <change afterPath="$PROJECT_DIR$/AdditionalTasks/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdditionalTasks/Start2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdditionalTasks/Start3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdditionalTasks/Start4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicCourse/Cycles/AverageOfNumbersFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicCourse/Cycles/CycleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicCourse/Cycles/CycleForNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicCourse/Cycles/DigitsInTheNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BasicCourse/Cycles/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/FunctionAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/FunctionDegreesConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/FunctionsMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/FunctionsPrintAndRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/OverloadFunctionsSizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/ProductsAndPricesFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +56,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Numbers">
-    <configuration name="AverageOfNumbersDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicCourse.Cycles.AverageOfNumbersDoWhile" />
+  <component name="RunManager" selected="Application.ProductsAndPricesFunction">
+    <configuration name="FunctionAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.FunctionAvg" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicCourse.Cycles.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AverageOfNumbersWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicCourse.Cycles.AverageOfNumbersWhile" />
+    <configuration name="FunctionDegreesConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.FunctionDegreesConversion" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicCourse.Cycles.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AverageOfNumbers_doWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicCourse.Cycles.AverageOfNumbers_doWhile" />
+    <configuration name="FunctionsPrintAndRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.FunctionsPrintAndRead" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicCourse.Cycles.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommandSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicCourse.SwitchCase.CommandSelection" />
+    <configuration name="OverloadFunctionsSizes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.OverloadFunctionsSizes" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicCourse.SwitchCase.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicCourse.Cycles.Numbers" />
+    <configuration name="ProductsAndPricesFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.ProductsAndPricesFunction" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicCourse.Cycles.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.AverageOfNumbersDoWhile" />
-        <item itemvalue="Application.AverageOfNumbers_doWhile" />
-        <item itemvalue="Application.AverageOfNumbersWhile" />
-        <item itemvalue="Application.CommandSelection" />
+        <item itemvalue="Application.ProductsAndPricesFunction" />
+        <item itemvalue="Application.OverloadFunctionsSizes" />
+        <item itemvalue="Application.FunctionDegreesConversion" />
+        <item itemvalue="Application.FunctionsPrintAndRead" />
+        <item itemvalue="Application.FunctionAvg" />
       </list>
     </recent_temporary>
   </component>
@@ -136,11 +148,20 @@
       <option name="project" value="LOCAL" />
       <updated>1671449675487</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cycles tasks part 1">
+      <created>1671530762805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671530762805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Cycles tasks part 1" />
+    <MESSAGE value="Cycles tasks part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cycles tasks part 2" />
   </component>
 </project>
