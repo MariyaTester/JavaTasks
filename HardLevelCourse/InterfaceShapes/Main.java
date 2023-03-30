@@ -5,8 +5,8 @@ public class Main {
         Square square1 = new Square(30);
         Square square2 = new Square(5.05);
         Square square3 = new Square(4.689);
-        Triangle triangle1 = new Triangle(1,1, 3, 5, 4, 1);
-        Triangle triangle2 = new Triangle(1,3,3,5,3,1);
+        Triangle triangle1 = new Triangle(1, 1, 3, 5, 4, 1);
+        Triangle triangle2 = new Triangle(1, 3, 3, 5, 3, 1);
         Rectangle rectangle1 = new Rectangle(20, 14);
         Rectangle rectangle2 = new Rectangle(20, 14);
         Circle circle1 = new Circle(5.1);
@@ -21,7 +21,7 @@ public class Main {
         System.out.println(triangle2.equals(triangle2));
         System.out.println("\nФигура с самой большой площадью:\n" + theBiggestArea.getTheBiggestArea(square1, square2, square3, triangle1, triangle2,
                 rectangle1, rectangle2, circle1, circle2, circle3));
-        System.out.println("\nФигура с самым большим периметром:\n" + theBiggestFigurePerimeter.getSecondTheBiggestFigurePerimeter(square1, square2, square3, triangle1, triangle2,
+        System.out.println("\nФигура со вторым самым большим периметром:\n" + theBiggestFigurePerimeter.getSecondTheBiggestFigurePerimeter(square1, square2, square3, triangle1, triangle2,
                 rectangle1, rectangle2, circle1, circle2, circle3));
     }
 }

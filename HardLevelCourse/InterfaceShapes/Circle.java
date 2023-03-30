@@ -34,12 +34,14 @@ public class Circle implements Shapes {
                 "\nПлощадь круга = " + getArea() +
                 "\nПериметр круга (длина окружности) = " + getPerimeter();
     }
+
     public int hashCode() {
         final int prime = 37;
         int hash = 1;
-        hash = prime * hash + (int)radius*2;
+        hash = prime * hash + (int) radius * 2;
         return hash;
     }
+
     public boolean equals(Object obj) {
         if (obj == this) return true;
         if (obj == null || obj.getClass() != this.getClass()) return false;
