@@ -18,19 +18,12 @@
       <change afterPath="$PROJECT_DIR$/AdditionalTasks/StartChar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AdditionalTasks/UseContacts.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AdditionalTasks/UseRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/SecondTheBiggestFigurePerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/TheBiggestFigureArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/InterfaceShapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/Range/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/Range/RangeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HardLevelCourse/Range/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HardLevelCourse/Lists/ListOfLinesFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HardLevelCourse/Lists/ListOfOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HardLevelCourse/Lists/ListWithoutDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HardLevelCourse/Lists/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCourse/FilesAndStrings/resources/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BasicCourse/FilesAndStrings/resources/file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +72,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "D:/Project/JavaTasks/BasicCourse/FilesAndStrings/resources"
+    "last_opened_file_path": "D:/Project/JavaTasks/HardLevelCourse/Lists"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JavaTasks\HardLevelCourse\Lists" />
       <recent name="D:\Project\JavaTasks\BasicCourse\FilesAndStrings\resources" />
       <recent name="D:\Project\JavaTasks\AdditionalTasks\resources" />
     </key>
@@ -91,13 +85,13 @@
       <recent name="AdditionalTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RangeApplication">
-    <configuration name="Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HardLevelCourse.AdditionalTasks.Contact" />
+  <component name="RunManager" selected="Application.ListOfLinesFromFile">
+    <configuration name="LineBuild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicCourse.FilesAndStrings.LineBuild" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HardLevelCourse.Range.*" />
+          <option name="PATTERN" value="BasicCourse.FilesAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicCourse.Functions.Exponentiation" />
+    <configuration name="ListOfLinesFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HardLevelCourse.Lists.ListOfLinesFromFile" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicCourse.Functions.*" />
+          <option name="PATTERN" value="HardLevelCourse.Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HardLevelCourse.InterfaceShapes.Main" />
+    <configuration name="ListOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HardLevelCourse.Lists.ListOfOddNumbers" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HardLevelCourse.Range.*" />
+          <option name="PATTERN" value="HardLevelCourse.Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HardLevelCourse.Range.RangeApplication" />
+    <configuration name="ListWithoutDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HardLevelCourse.Lists.ListWithoutDuplicates" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HardLevelCourse.Range.*" />
+          <option name="PATTERN" value="HardLevelCourse.Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HardLevelCourse.InterfaceShapes.Square" />
+    <configuration name="ReadingDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicCourse.FilesAndStrings.ReadingDocument" />
       <module name="JavaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HardLevelCourse.Range.*" />
+          <option name="PATTERN" value="BasicCourse.FilesAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,19 +152,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Contact" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.RangeApplication" />
-      <item itemvalue="Application.Square" />
-      <item itemvalue="Application.Exponentiation" />
+      <item itemvalue="Application.LineBuild" />
+      <item itemvalue="Application.ListOfLinesFromFile" />
+      <item itemvalue="Application.ListOfOddNumbers" />
+      <item itemvalue="Application.ListWithoutDuplicates" />
+      <item itemvalue="Application.ReadingDocument" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RangeApplication" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Square" />
-        <item itemvalue="Application.Contact" />
-        <item itemvalue="Application.Exponentiation" />
+        <item itemvalue="Application.ListOfLinesFromFile" />
+        <item itemvalue="Application.ListWithoutDuplicates" />
+        <item itemvalue="Application.ListOfOddNumbers" />
+        <item itemvalue="Application.ReadingDocument" />
+        <item itemvalue="Application.LineBuild" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674068728294</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Выполнены задачи Range и Shapes">
+      <created>1680175962576</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680175962576</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Исправлено форматирование">
+      <created>1680176194533</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680176194533</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,6 +256,8 @@
     <MESSAGE value="Cycles tasks part 2" />
     <MESSAGE value="Description of tasks" />
     <MESSAGE value="Function tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function tasks" />
+    <MESSAGE value="Выполнены задачи Range и Shapes" />
+    <MESSAGE value="Исправлено форматирование" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправлено форматирование" />
   </component>
 </project>
